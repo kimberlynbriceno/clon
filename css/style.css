@@ -64,6 +64,7 @@ main {
     left: 100px;
     font-size: 100px;
     padding: 10px 5px 60px 5px;
+    font-family:sans-serif;
 }
 .letra-ox {
     color: #f7cf1e;
@@ -73,6 +74,7 @@ main {
     left: 100px;
     font-size: 100px;
     padding: 10px 5px 60px 5px;
+    font-family:sans-serif;
     }
     
 .letra-g {
@@ -83,6 +85,7 @@ main {
         left: 100px;
         font-size: 100px;
         padding: 10px 5px 60px 5px;
+        font-family:sans-serif;
         }
 .letra-l {
     color: rgb(53, 141, 64);
@@ -92,6 +95,7 @@ main {
     left: 100px;
     font-size: 100px;
     margin:  10px 5px 60px 5px;
+    font-family:sans-serif;
     }
     
 .letra-e {
@@ -102,6 +106,7 @@ main {
         left: 100px;
         font-size: 100px;
         padding: 10px 10px 60px 10px;
+        font-family:sans-serif;
          }  
 
          .bg-email-icon {
